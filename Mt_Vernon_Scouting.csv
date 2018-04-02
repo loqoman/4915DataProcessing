@@ -1,0 +1,446 @@
+,Match #,Team #,Starting Position,Who is scouting (First Name Last Name),,Start with a cube?,Cross baseline?,Time remaining when 1st cube placed on switch,Time remaining when 2nd cube placed on switch,Time remaining when 1st cube placed on scale,Time remaining when 2nd cube placed on scale,Drop cube?,Place cube on wrong side of switch?,,# cubes dropped while driving:,# cubes on our switch:,# cubes on opponent’s switch:,# cubes missed on switch,# cubes into exchange:,# cubes on scale:,# cubes missed on scale,,Endgame action,Time to Climb,How much defense played?,Accurate cube placer?,Driver Skill,Became Disabled?,Robot Failure?,Tipped Over?,Reckless Driving?,Tech Foul?,Red Card?,Yellow Card?,What else?
+,2,360,Middle,Nora Wilson,,TRUE,TRUE,7,,,,FALSE,FALSE,,,1,1,,,,,,Not Even Parked,,50%,4,,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Elevator broke! Not good!
+,8,360,Middle,Kaedric Holt,,TRUE,FALSE,8,,,,,,,,2,,,,1,,,Parked,,30%,6,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,15,360,Middle,Sean Williams,,TRUE,,8,,,,FALSE,FALSE,,,,,,,1,1,,Parked,,30%,3,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Played defense after attempting 1 scale and placing another.
+,23,360,Middle,Justice James,,TRUE,TRUE,5,,,,FALSE,FALSE,,,,,,,1,,,Not Even Parked,,0%,8,0,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,"Broke in half and fell on the scale, getting about twelve tech fouls."
+,29,360,Middle,Justice James,,TRUE,FALSE,,,,,FALSE,FALSE,,,1,1,,,,,,Parked,,100%,,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Very aggressive driving.
+,33,360,Middle,Nora Wilson,,TRUE,TRUE,2,,,,FALSE,FALSE,,,2,,,4,,,,Parked,,70%,4,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Good driver. Tactics completely switched- no longer a reckless, scale-aiming bot. Seems it’s new best friend is the feed exchange."
+,44,360,Spectator Side,Violet Advani,,TRUE,TRUE,8,,,,FALSE,FALSE,,1,,4,,,,,,Parked,,80%,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Never attempted scale. Stayed at opponent switch, dropped trying, fixed it quickly."
+,49,360,Middle,Noah Martin,,TRUE,TRUE,9,,,,,,,,,3,,,,,,Parked,,60%,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,A little agressive
+,54,360,Middle,Kaedric Holt,,TRUE,TRUE,,,,,FALSE,,,2,2,2,,,,,,Parked,,20%,5,6,,,,,,,,
+,65,360,Middle,Kaedric Holt,,TRUE,TRUE,10,,,,,,,,1,4,,,,,,Parked,,20%,6,4,,,,,,,,
+,6,488,Spectator Side,Sam Rosen,,TRUE,,,,,,FALSE,FALSE,,,1,,,,3,1,,Parked,,,,6,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,"A tank fell out of place, dangled on the robot. Stopped for about 10-15 sec on the field in tele-op"
+,11,488,Middle,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,1,0,2,2,2,1,,Parked,0,0%,4,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Almost fell over once, also lift slowly sank down"
+,15,488,Spectator Side,Aiden Grayson,,TRUE,TRUE,,,,,FALSE,FALSE,,1,,,0,,2,1,,Parked,,,8,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,25,488,Spectator Side,Sean Williams,,TRUE,TRUE,,,,,FALSE,FALSE,,,1,,,,4,2,,Parked,,,7,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Did tip. Focused on scale with mostly inaccurate. Some cubes fell off.
+,32,488,Judge Side,Emma Lahtinen,,TRUE,TRUE,15,0,0,0,FALSE,FALSE,,,1,3,0,0,1,1,,Parked,0,0%,,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,36,488,Judge Side,Jack c,,TRUE,FALSE,,,,,,,,,,2,,,4,,,Parked,,,7,4,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,
+,42,488,Judge Side,Tanner Nalley,,TRUE,FALSE,0,,,,,,,,1,,,,4,,,Parked,,,,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"They tried to climb a ramp, but it got cought on it."
+,51,488,Judge Side,Violet Advani,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,,5,,,Parked,,10%,7,6,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,"Made it to scale in auto but no cube placed. Tech foul for holding down scale, only for a little bit, quick to fix. Fast bot."
+,56,488,Spectator Side,Noah Martin,,TRUE,TRUE,,,,,TRUE,,,,,2,,,3,,,Failed Climb With Friends,,20%,7,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,59,488,Judge Side,Tanner Nalley,,TRUE,TRUE,,,,,FALSE,FALSE,,0,0,1,0,0,3,2,,Parked,,,,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,They are a fast robot capable of everything.
+,71,488,Judge Side,Jack Chapman,,TRUE,TRUE,9,,,,FALSE,FALSE,,0,0,0,0,0,1,1,,Parked,,0%,1,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Tips with cube in scale position
+,75,488,Judge Side,Ryan Olney,,TRUE,TRUE,7,0,0,0,FALSE,FALSE,,0,0,0,0,1,3,1,,Not Even Parked,0,0%,7,7,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,"Interfered with scale, maybe tech foul"
+,21,1294,Judge Side,Jack Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,1,,,,,,,,Parked,,,2,0,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,"Bad driving, were in the way of their alliance"
+,5,1294,Spectator Side,Kaedric Holt,,TRUE,TRUE,,,,,,,,1,,,,3,,,,Parked,,10%,2,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Intake is finnicky
+,8,1294,Judge Side,Nora Wilson,,FALSE,TRUE,,,,,,,,2,1,,,,,,,Not Even Parked,,40%,3,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Was particularly slow with grabbing and placing cubes.
+,14,1294,Judge Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,1,0,0,0,2,0,0,,Parked,0,30%,4,3,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,Too aggressive
+,27,1294,Judge Side,Tanner nalley,,TRUE,TRUE,,,,,TRUE,FALSE,,,,,,,,,,Not Even Parked,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,They did nothing except get across the line.
+,35,1294,Spectator Side,Sean Williams,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,,,,,Not Even Parked,,,,,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,Went to other side in autonomous then became disabled.
+,42,1294,Judge Side,Sean Williams,,TRUE,TRUE,,,,,FALSE,FALSE,,,1,,,1,,,,Parked,,,4,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Couldnt really pick up cubes. Only collected 2 in the match.
+,46,1294,Spectator Side,Violet Advani,,TRUE,TRUE,,,,,,,,1,,,,,,,,Parked,,40%,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Not exactly reckless, but very bad driving. Slammed into walls, and could not even push cube int exchange. Push other robot around a little, and may or may not have gotten a penalty for that"
+,58,1294,Judge Side,Jack Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,0,1,0,0,3,0,0,,Not Even Parked,,10%,1,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Not great at doing the exchange
+,64,1294,Judge Side,Kaedric Holt,,TRUE,TRUE,,0,,,,,,,,,,5,,,,Parked,,,4,5,,,,,,,,"Rushed and lifted the scale, used a cube to push another into exchange."
+,3,1318,Spectator Side,Nora Wilson,,TRUE,TRUE,,,,,FALSE,FALSE,,1,,,,,2,,,Parked,,20%,,5,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Failed climb (part broke off) and relatively slow.
+,7,1318,Middle,Justice James,,TRUE,TRUE,3,,,,FALSE,FALSE,,,1,,,2,2,1,,Climb Main Rung,25,,8,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"This robot speeds really fast, both a bad and good thing."
+,16,1318,Middle,Sam Rosen,,TRUE,TRUE,7,,,,FALSE,FALSE,,,2,,,1,1,,,Parked,,,9,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,22,1318,Middle,Nora Wilson,,TRUE,FALSE,,,,,FALSE,FALSE,,1,1,,,,2,,,Failed Climb,,20%,4,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Lost a part of themselves but did much better than usual
+,28,1318,Middle,Kaedric Holt,,TRUE,TRUE,7,,,,,,,,,1,,,4,,,Failed Climb,,10%,7,7,,,,,,,,
+,34,1318,Middle,Ryan Olney,,TRUE,FALSE,5,0,0,0,FALSE,FALSE,,0,0,0,0,0,5,0,,Parked,0,0%,9,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,40,1318,Middle,Sean Williams,,TRUE,TRUE,6,,,,FALSE,FALSE,,,,3,,,2,0,,Failed Climb,,,8,9,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Failed to grasp bar. Spent some time on opponents switch but other areas were covered. Fairly efficient.
+,51,1318,Middle,Jack Chapman,,TRUE,TRUE,7,,,,FALSE,FALSE,,,,,,,3,2,,Climb Main Rung,2,,7,9,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,2nd dropped cube was with 7 cubes on scale
+,54,1318,Middle,Jack Chapman,,TRUE,TRUE,6,,,,FALSE,FALSE,,,,,,2,3,,,Climb Main Rung,3,,8,10,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Tipped alliace robot over to get other robot off of scale
+,64,1318,Spectator Side,Peter Hall,,TRUE,TRUE,,,,,TRUE,FALSE,,,4,,,,2,,,Climb Main Rung,6-15secs,0 None,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Good scale or switch bot
+,74,1318,Middle,Ryan Olney,,TRUE,TRUE,0,0,0,0,TRUE,FALSE,,0,1,2,0,0,1,1,,Climb Main Rung,10,0%,8,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Missed auto cube
+,4,1595,Middle,Emma Lahtinen,,TRUE,FALSE,0,0,0,0,FALSE,FALSE,,1,1,0,1,0,0,0,,Not Even Parked,0,0%,3,4,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,13,1595,Spectator Side,Aiden Grayson,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,1,,,,Parked,,,,,,,,,,,,
+,17,1595,Middle,Ryan Olney,,FALSE,FALSE,0,0,0,0,FALSE,FALSE,,0,0,0,0,2,0,0,,Not Even Parked,0,0%,,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,23,1595,Spectator Side,Nora Wilson,,FALSE,TRUE,,,,,,,,,2,,,,,,,Parked,,30%,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,I will say I got a little distracted by 360’s colossal mechanical failure so It is possible I missed something but overall this is a below-average to average robot.
+,31,1595,Spectator Side,Emma Lahtinen,,FALSE,TRUE,0,0,0,0,FALSE,FALSE,,0,0,0,0,3,0,0,,Parked,0,0%,0,2,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Cube lifter broke
+,36,1595,Middle,Sam Rosen,,FALSE,TRUE,,,,,,,,,1,,,,,,,Failed Climb With Friends,,,,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Placed cube in wrong side during tele-op
+,40,1595,Judge Side,Jack Chapman,,FALSE,FALSE,,,,,FALSE,FALSE,,,,,,1,,,,Parked,,0%,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,"Climbing arms deployed in auto, mad manuvering very difficult,"
+,47,1595,Spectator Side,Noah Martin,,TRUE,FALSE,,,,,,,,,,,,,,,,Parked,,0%,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,Couldnt intake cube Climb with friends opened early
+,58,1595,Middle,Kaedric Holt,,TRUE,TRUE,,,,,,,,,,,,4,,,,Parked,,,3,5,,,,,,,,Rather imprecise placer.
+,63,1595,Judge Side,Justice James,,TRUE,TRUE,,,,,FALSE,FALSE,,1,0,0,0,2,0,0,,Not Even Parked,,0%,2,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Robot seemed to work fine. The drivers were really bad. They blocked a climb with friends alliance bot and didn't even climb, also, the drivers seemed indesive the whole match. The robot would constantly stop and start going to a place other than the closest one. Summarized: Robot is good, drivers are a no-pick"
+,70,1595,Spectator Side,Jack Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,2,1,0,0,0,0,0,,Parked,,20%,1,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,70,1595,Spectator Side,Justice James,,TRUE,TRUE,,,,,FALSE,FALSE,,1,0,0,0,1,0,1,,Parked,,0%,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Autonomous program is do nothing for 13 seconds, then full forward. Not good at anything (everybot or scalebot)"
+,76,1595,Middle,Justice James,,TRUE,,,,,,,,,0,0,0,1,0,0,0,,Parked,,10%,3,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Don't pick this one. It has a grabber that did not work the entire match of them attempting to use it.
+,3,1899,Middle,Noah Martin,,FALSE,TRUE,,,,,,,,,,,,,,,,Not Even Parked,,,,,,FALSE,,,,,,Intake came off
+,13,1899,Judge Side,Sam Rosen,,FALSE,TRUE,,,,,,,,,,,,,,,,Failed Climb With Friends,,,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Intake arm fell off. Attempted to carry others but failed
+,17,1899,Spectator Side,Aiden Grayson,,FALSE,TRUE,,,,,FALSE,FALSE,,,,,,,,,,Parked,,0%,0,2,FALSE,TRUE,,,TRUE,FALSE,FALSE,2 tech fouls
+,21,1899,Spectator Side,Justice James,,FALSE,TRUE,,,,,FALSE,FALSE,,0,0,0,0,0,0,0,,Parked,,100%,0,3,FALSE,FALSE,FALSE,,TRUE,FALSE,FALSE,"Did not ""do"" anything, it kind of just was there to cause tech fouls"
+,33,1899,Spectator Side,Sean Williams,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,,,,,Parked,,100%,,,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,"Harvester/ arms flipped around, could not handle cubes. Not great defense,"
+,39,1899,Spectator Side,Sam Rosen,,TRUE,TRUE,,,,,,,,,,,1,,,,,Not Even Parked,,80%,,6,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Intake fell apart.
+,46,1899,Judge Side,Justice James,,FALSE,TRUE,,,,,FALSE,FALSE,,,,,,,,,,Parked,,100%,0,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"100% defense, took the climbing spot without a climber"
+,50,1899,Spectator Side,Violet Advani,,FALSE,TRUE,,,,,FALSE,FALSE,,,,,,,,,,Parked,,100%,0,4,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,"Used to have clomb w/ friends, but they broke. Now now grabber or anything. 2yellows for long pins i think"
+,55,1899,Judge Side,Tanner Nalley,,FALSE,TRUE,,,,,FALSE,FALSE,,0,,0,0,0,0,0,,Not Even Parked,,,,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"They had two climbing with friends ramps, one of them was falling apart."
+,60,1899,Spectator Side,Ryan Olney,,FALSE,TRUE,0,0,0,0,FALSE,FALSE,,0,0,0,0,0,0,0,,Parked,0,100%,0,9,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,"I thought very good defensive, although, two tech fouls for aggressive defence"
+,69,1899,Spectator Side,Marie Sachs,,FALSE,TRUE,,,,,FALSE,FALSE,,,,,,,,,,Climb + 1 Friend,,30%,,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Too fast to manuver well, climbed on another robot which lifted it"
+,75,1899,Judge Side,Tanner Nalley,,FALSE,TRUE,,,,,FALSE,FALSE,,0,0,0,0,0,0,0,,Parked,,30%,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,4,2147,Middle,Noah Martin,,TRUE,TRUE,,,,,,,,,3,,,,2,,,Parked,,10%,7,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,10,2147,Judge Side,Emma Lahtinen,,TRUE,TRUE,9,0,0,0,FALSE,FALSE,,0,2,1,0,1,3,0,,Climb Main Rung,20,0%,8,10,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Moved very fast
+,16,2147,Judge Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,0,0,1,0,1,0,,Parked,0,0%,,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Could not perform simple tasks, instable"
+,21,2147,Middle,Kaedric Holt,,TRUE,FALSE,,,,,,,,,2,,,,3,3,,Parked,,10%,6,8,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,
+,27,2147,Middle,Kaedric Holt,,TRUE,TRUE,6,,,,,,,,,,,,5,1,,Not Even Parked,,,8,9,,,,TRUE,,,,
+,34,2147,Spectator Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,TRUE,FALSE,,0,0,0,0,0,5,3,,Not Even Parked,0,0%,6,3,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,
+,43,2147,Judge Side,Jack Chapman,,TRUE,TRUE,,,,,TRUE,FALSE,,,,,,,4,2,,,,0%,6,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Missed cubes with full scale
+,50,2147,Judge Side,Noah Martin,,TRUE,TRUE,,,,,,,,,,1,,,,2,,Not Even Parked,,,2,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,58,2147,Spectator Side,Noah Martin,,TRUE,TRUE,,,,,,,,,,1,,,1,,,Parked,,20%,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,65,2147,Judge Side,Peter Hall,,TRUE,TRUE,,,,,,,,,,,,2,2,,,Not Even Parked,,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Tippy robot
+,72,2147,Spectator Side,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,0,0,0,0,4,0,,Not Even Parked,0,0%,8,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,5,2605,Middle,Noah Martin,,TRUE,,,,,,,,,,,,,2,,,,No Climb but 1 Friend,0,,2,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,13,2605,Middle,Ryan Olney,,TRUE,TRUE,5,0,0,0,FALSE,FALSE,,0,0,0,0,0,0,0,,Parked,0,0%,7,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,19,2605,Middle,Sam Rosen,,TRUE,FALSE,,,,,FALSE,FALSE,,,,,,3,,,,Not Even Parked,,,4,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Placed cube in exchange during auto
+,23,2605,Middle,Jack Chapman,,TRUE,FALSE,,,,,FALSE,FALSE,,,,,,3,,,,,,,2,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Not great at placing cubes in exchange, yet still do it"
+,29,2605,Judge Side,Tanner nalley,,TRUE,TRUE,,,,,FALSE,FALSE,,,1,,,1,,,,Parked,,,4,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"They are a shooter robot, they didn’t seem capable of putting cubes on the scale . They had ramps for people to drive on in climbing."
+,38,2605,Spectator Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,,1,,,4,,,,Parked,0,0%,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Basically did just the exchange
+,41,2605,Spectator Side,Tanner Nalley,,TRUE,TRUE,,,,,,,,,3,,,,,,,No Climb but 1 Friend,,,,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,They are a shooter robot and are not capable of placing cubes on the scale. They are also slow.
+,48,2605,Middle,Noah Martin,,TRUE,TRUE,7,,,,,,,,,,,2,,,,Parked,,,,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Meh
+,56,2605,Middle,Marie Sachs,,TRUE,TRUE,5,,,,FALSE,FALSE,,,1,,,2,,,,Failed Climb With Friends,,,5,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,59,2605,Spectator Side,Jack Chapman,,TRUE,TRUE,10,,,,FALSE,FALSE,,0,0,0,0,3,0,0,,No Climb but 1 Friend,5,0%,3,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Not a good exchange bot, would be beyyer at the switch in my opinion"
+,69,2605,Middle,Kaedric Holt,,TRUE,TRUE,7,,,,,,,,,,,2,,,,No Climb but 1 Friend,,,6,7,,,,,,,,Difficulty with intake.
+,66,2610,Spectator Side,Marie Sachs,,TRUE,TRUE,,,,,,,,,,,,,7,1,,Climb Main Rung,3,,9,9,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Staff fix something on  before match, auto: dropped cube on axis, fast"
+,3,2903,Spectator Side,Kaedric Holt,,TRUE,FALSE,,,,,,,,,1,,,,,,,Not Even Parked,,10%,4,4,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,11,2903,Judge Side,Sean Williams,,TRUE,FALSE,0,0,0,0,TRUE,FALSE,,0,0,0,0,0,0,0,,Not Even Parked,0,0%,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Barely moved. Issue picking up any cube, especially on sode. Moved slowly when it did."
+,17,2903,Judge Side,Sam Rosen,,TRUE,FALSE,,,,,FALSE,FALSE,,,,,,,,,,,,,,,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,26,2903,Judge Side,Justice James,,TRUE,FALSE,,,,,FALSE,FALSE,,,2,,,,,,,Not Even Parked,,0%,7,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,33,2903,Judge Side,Ryan Olney,,TRUE,FALSE,0,0,0,0,FALSE,FALSE,,0,0,0,1,2,0,0,,Not Even Parked,0,0%,2,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,36,2903,Middle,Emma Lahtinen,,TRUE,FALSE,0,0,0,0,FALSE,FALSE,,0,3,0,0,0,0,0,,Parked,0,0%,6,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,44,2903,Spectator Side,Noah Martin,,TRUE,FALSE,,,,,,,,,,,,,,1,,Parked,,,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Did run most of the match
+,48,2903,Spectator Side,Ryan Olney,,FALSE,FALSE,0,0,0,0,FALSE,FALSE,,0,0,0,0,1,0,0,,Parked,0,0%,,7,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Intake didn't work
+,56,2903,Spectator Side,Tanner Nalley,,TRUE,FALSE,,,,,FALSE,FALSE,,0,4,0,0,0,0,0,,Parked,,,8,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,59,2903,Middle,Marie Sachs,,TRUE,FALSE,,,,,,,,,2,1,,,,,,Parked,,10%,4,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Before match, staff & student had to fix it"
+,66,2903,Judge Side,Kaedric Holt,,TRUE,TRUE,,,,,,,,,2,,,2,,,,Parked,,10%,4,6,,,,,,,,
+,73,2903,Judge Side,Jach Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,0,4,0,0,0,0,0,,Parked,,20%,4,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,4,2907,Spectator Side,Nora Wilson,,FALSE,TRUE,,,,,FALSE,FALSE,,,,,2,1,,,,Parked,,60%,4,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Spent 30 seconds stuck inside the feed exchange somehow. Spent all its time on the feed exchange but yielded poor results.
+,12,2907,Spectator Side,Sean Williams,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,0,0,0,4,0,0,,Parked,0,0%,7,9,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Started watching wrong robot so not sure. Only put into excahnge but seemed like a more skilled and faster robot than most. No issue placing cube into exchange, smooth. May have done cube placement but unsure."
+,20,2907,Judge Side,Sam Rosen,,TRUE,TRUE,,,,,TRUE,FALSE,,,,,,,,,,Parked,,30%,,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,23,2907,Judge Side,Tanner nalley,,FALSE,TRUE,,,,,FALSE,FALSE,,,,,,,,,,Parked,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Team 360 interfered with the scale making it impossible to put cubes on it.
+,28,2907,Judge Side,Jack Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Disabled after auto
+,35,2907,Middle,Ryan Olney,,TRUE,FALSE,0,0,0,0,FALSE,FALSE,,0,0,0,2,0,0,3,,Parked,0,0%,2,6,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,Loose grip on cubes
+,35,2907,Middle,Jack Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,1,,,1,,0,2,,Parked,,,,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Dropped cubes when lifting them
+,40,2907,Spectator Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,1,,,,,1,,,Parked,0,0%,4,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,46,2907,Middle,Tanner Nalley,,TRUE,,,,,,FALSE,FALSE,,,2,,,1,,,,Parked,,,,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,57,2907,Spectator Side,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,1,2,0,0,0,0,0,,Parked,0,0%,7,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Very bad at picking up cubes
+,60,2907,Middle,Noah Martin,,TRUE,TRUE,,,,,,,,,,,2,0,,,,Parked,,,4,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Trouble with exchange
+,66,2907,Spectator Side,Justice James,,TRUE,TRUE,,,,,FALSE,FALSE,,0,0,0,0,0,0,0,,Parked,,,3,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Autonomous is not bad but not good. Lost connection for the first 20 seconds, then again for 5 seconds. It was trying to get one cube in the exchange for the entire match."
+,77,2907,Middle,Jack Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,0,0,0,0,4,0,0,,Parked,,0%,,,,,,,,,,Inhibited own alliances movement
+,6,2910,Spectator Side,Nora Wilson,,TRUE,TRUE,,,,,,,,,2,4,,2,1,,,Climb Main Rung,4,70%,,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"It can do seemingly EVERYTHING! It can climb, dominate the cubes, and is extremely fast as well as able  to move all directions."
+,10,2910,Judge Side,Kaedric Holt,,TRUE,TRUE,11,,,,,,,,,,,2,3,1,,Climb Main Rung,5,,7,10,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,16,2910,Judge Side,Sean Williams,,TRUE,TRUE,,,10,,FALSE,FALSE,,,,3,,5,2,,,Climb Main Rung,4,,10,10,,,,,TRUE,,,
+,22,2910,Judge Side,Tanner nalley,,TRUE,TRUE,1,,,,FALSE,FALSE,,,,,,,6,1,,Climb Main Rung,2,,10,10,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,They placed cubes very fast with a lot of accuracy. They only messed up once.
+,27,2910,Judge Side,Jack Chapman,,TRUE,TRUE,2,,,,,,,1,,,,,5,2,,Failed Climb,,0%,8,9,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"One dropped cube was with a full scale, climbing did not seem to engage or robot was too heavy for climbing motor"
+,36,2910,Spectator Side,Nora Wilson,,TRUE,TRUE,,,,,FALSE,FALSE,,1,,,,,5,1,,Parked,,10%,6,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Not their best game and at one point dropped a cube into itself.
+,41,2910,Judge Side,Justice James,,TRUE,TRUE,,,7,,FALSE,FALSE,,,,4,,,3,,,Climb + 1 Friend,,30%,9,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,49,2910,Judge Side,Justice James,,TRUE,TRUE,7,,,,FALSE,FALSE,,,,1,1,,4,2,,Climb Main Rung,,10%,8,9,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,57,2910,Judge Side,Jack Chapman,,TRUE,TRUE,10,,,,FALSE,FALSE,,0,0,3,0,0,3,0,,Parked,,20%,6,9,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Unstabe over bumps, didn't actually come too close to tipping over though"
+,75,2910,Middle,Justice James,,TRUE,TRUE,10,,,,FALSE,FALSE,,0,3,3,0,0,5,0,,Climb Main Rung,15,,10,10,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,2,2930,Judge Side,Sam Rosen,,TRUE,TRUE,,,,,FALSE,FALSE,,2,,,,3,1,,,Not Even Parked,,,6,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Had difficulty keeping cubes in intake
+,9,2930,Middle,Noah Martin,,TRUE,TRUE,,,,,,,,,,,,,2,,,Climb Main Rung,30,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,20,2930,Middle,Noah Martin,,TRUE,TRUE,10,,,,FALSE,FALSE,,,,,,1,1,1,,Parked,,20%,5,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,25,2930,Middle,Justice James,,TRUE,TRUE,10,,,,FALSE,FALSE,,,1,,,8,,,,Parked,,10%,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"They put in 8 cubes, They also have a climber and an accurate scale thingy, even though it wasn't used."
+,29,2930,Middle,Nora wilson,,,,,,,,,,,,1,,,,2,,,Parked,,,7,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Generally good but could be tipped easily
+,33,2930,Middle,Justice James,,TRUE,TRUE,5,,,,FALSE,FALSE,,,,,,,3,,,Not Even Parked,,10%,9,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,33,2930,Middle,Emma Lahtinen,,TRUE,TRUE,10,0,0,0,FALSE,FALSE,,1,0,0,0,0,2,0,,Not Even Parked,0,0%,,,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,"Crashed int things, kinda seemed lost"
+,41,2930,Spectator Side,Violet Advani,,TRUE,TRUE,6,,,,FALSE,FALSE,,,,,,9,,,,Climb Side,0,0%,,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Climbed with 2605 and 2910 for all 4rp and high score of 510. 2605 had folding plattoms that assisted climb.
+,53,2930,Middle,Ryan Olney,,TRUE,TRUE,8,0,0,0,FALSE,FALSE,,0,0,0,0,6,2,0,,Not Even Parked,0,0%,8,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,60,2930,Middle,Jack Chapman,,TRUE,TRUE,10,,,,FALSE,FALSE,,0,0,0,0,6,0,1,,Climb Main Rung,3,0%,8,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Difficulty lining up for climbing
+,68,2930,Middle,Kaedric Holt,,TRUE,TRUE,10,,,,,,,1,3,,1,,,,,Climb Main Rung,20,30%,6,7,,,,,,,,Some difficulty picking up cubes.
+,2,2976,Middle,Noah Martin,,TRUE,,,,,,,,,,,,,,,,,Not Even Parked,,,,,,FALSE,,,,,,Never moved
+,12,2976,Middle,Jack Chapman,,TRUE,FALSE,,,,,,,,,1,1,,,,,,Parked,,,,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,17,2976,Middle,Sean Williams,,TRUE,FALSE,,,,,FALSE,FALSE,,,1,,,3,,,,Not Even Parked,,,2,3,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,Kept spinning is circles not really doing much. Possible communication error. Not reckless driving but not efficient or careful or good.
+,21,2976,Middle,Nora Wilson,,TRUE,FALSE,,,,,FALSE,FALSE,,,1,,,2,,,,Not Even Parked,,40%,4,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,A speedy robot! Zipping around very well but may as well be useless on scale as far as I can tell.
+,30,2976,Judge Side,Tanner nalley,,TRUE,FALSE,0,,,,,,,,1,,,7,,,,Parked,,,9,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,They are not capable of putting cubes on the scale.
+,38,2976,Spectator Side,Nora Wilson,,TRUE,FALSE,,,,,FALSE,FALSE,,,1,,,3,,,,Not Even Parked,,50%,4,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Did not even try to park itself for endgame, and  while it did get 3 cubes in the exchange it failed on getting 2 in there as well."
+,45,2976,Spectator Side,Aiden Grayson,,TRUE,FALSE,,,,,FALSE,,,0,1,2,1,1,,0,,Not Even Parked,,,4,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,48,2976,Middle,Justice James,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,,,,,Parked,,100%,0,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"did nothing, not even much defense"
+,54,2976,Spectator Side,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,0,0,0,1,0,0,,Parked,0,70%,7,6,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Intake fell off
+,71,2976,Spectator Side,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,1,3,0,5,0,0,,Not Even Parked,0,50%,9,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Fast, I believe they moved after match a bit, but I may be wrong"
+,78,2976,Judge Side,Justice James,,TRUE,TRUE,5,,,,FALSE,FALSE,,0,0,0,0,9,0,0,,Climb + 2 Friends,,10%,6,9,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Only an everybot, but very good. was part of a successful 2 friend climb + levitate."
+,8,2980,Spectator Side,Sam Rosen,,TRUE,TRUE,,,,,FALSE,FALSE,,,1,,,,1,1,,Parked,,,8,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Tried to climb
+,15,2980,Judge Side,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,1,0,1,0,0,0,,Parked,0,0%,4,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,24,2980,Judge Side,Justice James,,TRUE,FALSE,,,,,FALSE,FALSE,,,,,,,2,,,Not Even Parked,,0%,7,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,wobbly
+,30,2980,Spectator Side,Justice James,,TRUE,TRUE,,,,,FALSE,FALSE,,,1,,,,1,1,,Parked,,,4,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,34,2980,Judge Side,Jack Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,4,,,,Parked,,0%,9,6,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,
+,41,2980,Middle,Sean Williams,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,1,,,,Parked,,50%,,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Very fimbsey and unstable. Didn't do anything for most of match, looks like will break. Not great defense."
+,46,2980,Spectator Side,Aiden Grayson,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,3,,,,Parked,,60%,2,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,46,2980,Judge Side,Kaedric Holt,,TRUE,TRUE,,,,,,,,,,,1,3,1,2,,,,,,,,,,,,,,"Didnt fit under scale arm lowered, prevented from climbing robot climb ramp"
+,47,2980,Spectator Side,Aiden Grayson,,TRUE,TRUE,6,,,,TRUE,FALSE,,,,,,2,1,,,Parked,0,20%,6,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,61,2980,Spectator Side,Marie Sachs,,TRUE,TRUE,,,,,TRUE,FALSE,,,,,,,3,,,Parked,,,5,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Their teammate's grabber came off, they don't look stable(top heavy)"
+,70,2980,Judge Side,Kaedric Holt,,TRUE,TRUE,,,,,,,,,,,,2,1,1,,Climb Main Rung,25,30%,6,8,,,,,,,,
+,77,2980,Judge Side,Tanner Nalley,,TRUE,TRUE,,,,,,,,0,0,0,0,0,0,0,,Not Even Parked,,,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,7,3049,Middle,Nora Wilson,,TRUE,FALSE,,,,,,,,,,,,,,,,Not Even Parked,,0%,0,2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,It barely moved after crossing the autoline. It was disabled for 30+ seconds and left pieces of itself on the floor.
+,10,3049,Spectator Side,Nora Wilson,,FALSE,TRUE,,,,,FALSE,FALSE,,,,,,2,,,,Parked,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Slow. Bumper fabric was coming off, and was pretty much only going for feed excange."
+,15,3049,Middle,Jack Chapman,,TRUE,TRUE,,,,,TRUE,FALSE,,,,,,,,,,,,,,,TRUE,,FALSE,FALSE,FALSE,FALSE,FALSE,Disabled aftet auto
+,21,3049,Judge Side,Tanner Nalley,,TRUE,TRUE,,,,,TRUE,,,,,,,,,,,Not Even Parked,,0%,,,TRUE,TRUE,,,,,,They lost communication at the beginning of teleop.
+,28,3049,Middle,Nora Wilson,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,,,,,Not Even Parked,,,2,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Poor thing was disconnected the entire time; I am therefore unaware of what it could have been capable this go around.
+,37,3049,Middle,Jack Chapman,,FALSE,TRUE,,,,,FALSE,FALSE,,,,,,,,,,Not Even Parked,,0%,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Auto didn't turn off, got disabled"
+,45,3049,Middle,Justice James,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,2,,,,,Not Even Parked,,0%,0,0,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,It speaks for itself don't choose this one
+,48,3049,Spectator Side,Violet Advani,,TRUE,TRUE,,,,,,,,1,,,,,,,,Not Even Parked,,30%,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,"Had cube to start but dropped at beginning of teleop. Never picked up another cube, kinda sat around, played some defense but also got tech fouled for being in other teams null zone"
+,53,3049,Judge Side,Kaedric Holt,,TRUE,TRUE,,,,,TRUE,,,,,,,,,,,Not Even Parked,,90%,,7,,,,,,,,
+,74,3049,Judge Side,Justice James,,TRUE,TRUE,,,,,FALSE,FALSE,,0,0,0,0,0,0,0,,Not Even Parked,,,0,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Incredibly slow. Lost connection for most of the match.
+,1,3070,Judge Side,Justice James,,TRUE,FALSE,,,,,FALSE,FALSE,,0,1,0,1,0,,,,Parked,,20%,5,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Only went for the switch
+,8,3070,Spectator Side,Justice James,,TRUE,TRUE,5,,,,FALSE,FALSE,,,2,,,2,0,,,Parked,,10%,7,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,16,3070,Spectator Side,Aiden Grayson,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,2,,,,Parked,,,4,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,24,3070,Spectator Side,Nora Wilson,,TRUE,TRUE,,,,,,,,,1,,,1,,,,Defense,,70%,4,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Average overall.
+,29,3070,Judge Side,Jack Chapman,,FALSE,TRUE,,,,,TRUE,FALSE,,,1,,,,,,,Not Even Parked,,,3,4,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,"Drivetrain fail, could only spin in circles"
+,38,3070,Judge Side,Jack Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,1,1,,1,1,,,,Not Even Parked,,,,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,45,3070,Middle,Jack Chapman,,TRUE,TRUE,10,,,,FALSE,FALSE,,,,,,,,,,Parked,,10%,5,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Stayed in one plece for a large time interval for some reason
+,46,3070,Spectator Side,Kaedric Holt,,FALSE,TRUE,,,,,,,,,,,1,,,,,Parked,,,2,4,,,,,,,,Extreme difficulty picking up cubes.
+,52,3070,Middle,Tanner Nalley,,FALSE,FALSE,,,,,FALSE,FALSE,,,,2,,,,,,Parked,,,,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,60,3070,Spectator Side,Marie Sachs,,FALSE,TRUE,,,,,FALSE,FALSE,,,,,,,,,,Parked,,90%,0,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,70,3070,Middle,Peter Hall,,TRUE,TRUE,7,,,,FALSE,FALSE,,,1,,,3,,,,Parked,,20%,4,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,73,3070,Spectator Side,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,0,0,0,0,0,0,,Not Even Parked,0,100%,0,5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,2 tech fouls I think for aggressive defence
+,5,3238,Middle,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,3,1,0,1,0,1,0,,Parked,0,0%,6,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,10,3238,Middle,Aiden Grayson,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,,4,,,Failed Climb,,,4,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,19,3238,Middle,Jack Chapman,,TRUE,TRUE,11,,,,FALSE,FALSE,,,,,,5,,,,Parked,,,4,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,22,3238,Spectator Side,Jack Chapman,,TRUE,TRUE,,,,,FALSE,TRUE,,,,,,,,,,Not Even Parked,,80%,,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Not the most disruptive defender
+,33,3238,Judge Side,Sam Rosen,,TRUE,TRUE,,,,,FALSE,FALSE,,1,,,,,2,,,Climb Main Rung,5,,7,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,38,3238,Middle,Ryan Olney,,TRUE,TRUE,9,0,0,0,FALSE,FALSE,,1,0,0,0,0,1,2,,Climb Main Rung,4,0%,4,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,46,3238,Middle,Noah Martin,,TRUE,TRUE,11,,,,,,,,,2,,,1,,,Climb Main Rung,12,30%,7,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,51,3238,Middle,Noah Martin,,TRUE,TRUE,10,,,,,,,,,,,7,,,,Parked,,,,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,57,3238,Middle,Tanner Nalley,,TRUE,TRUE,2,,,,FALSE,FALSE,,,0,0,0,5,0,0,,Parked,,,9,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,They were going to get a 6th cube in the exchange however they just left it there right outside the exchainge.
+,4,3268,Middle,Sam Rosen,,TRUE,FALSE,,,,,FALSE,FALSE,,,,,1,,,,,Not Even Parked,,,3,3,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,Launched a cube at a ref
+,8,3268,Spectator Side,Noah Martin,,TRUE,TRUE,,,,,,,,,1,,,,1,,,Climb Main Rung,,,3,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Crazy elevator
+,14,3268,Middle,Sam Rosen,,TRUE,TRUE,,,,,TRUE,,,,,,,2,,,,Parked,,,5,5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,Two tech fouls
+,22,3268,Spectator Side,Justice James,,TRUE,FALSE,,,,,FALSE,FALSE,,,,,,0,,,,Parked,,100%,0,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Did not place cubes, entirely defensive"
+,32,3268,Middle,Justice James,,TRUE,FALSE,,,,,,,,,,,,,,,,Not Even Parked,,,4,0,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,lol it shot a cube backwards through itself
+,37,3268,Judge Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,,,,,,,,,Not Even Parked,0,0%,,2,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Cube got stuck
+,44,3268,Judge Side,Justice James,,TRUE,FALSE,,,,,FALSE,FALSE,,,,,,,,,,Parked,,90%,0,1,,,,,TRUE,,,"could not do anything, very aggressive and dangerous"
+,47,3268,Judge Side,Tanner Nallwey,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,1,,,,Parked,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,55,3268,Middle,Marie Sachs,,TRUE,FALSE,,,,,TRUE,FALSE,,,1,,,,,,,Not Even Parked,,,0,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Ineffective grabber: bad at picking up cubes
+,63,3268,Judge Side,Marie Sachs,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,,,,,Not Even Parked,,20%,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,"Driver grabbed control during auto, tried defense: was terrible"
+,77,3268,Judge Side,Justice James,,TRUE,TRUE,,,,,FALSE,FALSE,,2,0,0,0,2,0,0,,Climb Main Rung,,,0,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Rammed the cubes into the slot, not the best way. Climbed on another robot to get the climb."
+,2,3663,Spectator Side,Justice James,,TRUE,FALSE,,,,,FALSE,FALSE,,,1,,,2,4,,,Parked,,20%,10,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Was blocked from the climb by a disabled robot, but made it anyway."
+,10,3663,Judge Side,Noah Martin,,TRUE,FALSE,,,,,,,,,,,,,2,,,Not Even Parked,,,,,,,,,,,TRUE,Big foul
+,14,3663,Judge Side,Sean Williams,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,,2,,,Parked,,10%,5,7,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,Pushed multiple cubes. Cube became lodged in harvested and arm may have broken. Looked good prior and went straight for scale with fair-Good cycle time.
+,20,3663,Spectator Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,1,,,,,2,,,Parked,0,0%,6,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,31,3663,Judge Side,Justice James,,TRUE,TRUE,,,,,FALSE,FALSE,,,1,,,2,2,,,Parked,,,9,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,was blocked from climbing
+,34,3663,Judge Side,Sam Rosen,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,,7,,,Parked,,,,10,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,Tried to climb
+,42,3663,Spectator Side,Aiden Grayson,,TRUE,TRUE,,,,,,,,,,,,,3,1,,Parked,,10%,9,9,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,Intake broke and punctured cube
+,51,3663,Spectator Side,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,0,0,0,3,5,0,,Parked,0,0%,10,10,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,8 cubes on scale
+,55,3663,Spectator Side,Ryan Olney,,TRUE,FALSE,0,0,0,0,FALSE,FALSE,,0,0,0,0,0,4,1,,Parked,0,0%,7,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"No auto, mildly fast"
+,58,3663,Judge Side,Tanner Nalley,,TRUE,TRUE,,,,,FALSE,FALSE,,0,0,0,0,0,0,0,,Not Even Parked,,,,,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,68,3663,Spectator Side,Marie Sachs,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,1,,2,,,Parked,,,4,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Bumped a blue who was in red zone & made blue be penalized
+,73,3663,Judge Side,Justice James,,TRUE,TRUE,,,,,FALSE,FALSE,,0,0,0,0,0,5,0,,Parked,,,10,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Was dealing with a lot of defense/ramming, and still did very well."
+,1,3786,Spectator Side,Sam Rosen,,FALSE,FALSE,,,,,FALSE,FALSE,,,,,,,1,1,,Not Even Parked,,,,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Second cube dropped because robot was not tall enough to place on scale.
+,9,3786,Spectator Side,Nora Wilson,,FALSE,FALSE,,,,,FALSE,FALSE,,,1,,,,,,,Not Even Parked,,60%,4,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Put a cube on but it was trapped between a previously placed cube and the side of the switch. Was jolty and looked confused, but it could be a human driver with less experience."
+,19,3786,Middle,Noah Martin,,TRUE,TRUE,,,,,,,,,,,,,,,,Not Even Parked,,40%,2,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,23,3786,Judge Side,Kaedric Holt,,FALSE,FALSE,,,,,,,,2,,,,1,,,,Parked,,10%,4,6,,,,,,,,
+,27,3786,Judge Side,Nora Wilson,,FALSE,TRUE,,,,,FALSE,FALSE,,,,,,3,,,,Not Even Parked,,60%,4,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Average, mostly used as exchange."
+,35,3786,Judge Side,Sam Rosen,,FALSE,TRUE,,,,,,,,,2,,,4,,,,Not Even Parked,,,7,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,40,3786,Spectator Side,Nora Wilson,,FALSE,TRUE,,,,,FALSE,FALSE,,,1,,,6,,,,Parked,,70%,,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,48,3786,Spectator Side,Tanner Nalley,,FALSE,TRUE,,1,,,FALSE,FALSE,,,0,,,1,2,,,Not Even Parked,,,4,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,They had a difficult time picking up cubes . They kept accidentally pushing the cubes away.
+,55,3786,Middle,Jack Chapman,,FALSE,TRUE,,,,,FALSE,FALSE,,0,1,0,0,3,0,0,,Not Even Parked,,0%,8,5,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,"Grabber seemd to loose the ability to eject cubes, rammed into alliance robot in auto"
+,65,3786,Spectator Side,Justice James,,FALSE,TRUE,,,,,FALSE,FALSE,,0,2,0,0,1,0,0,,Parked,,,6,4,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,"They are the robot with the wooden exchange. Kind of bad automous. Also two tech fouls, not one. They seem to have their intake working again."
+,75,3786,Middle,Jack Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,0,1,0,0,4,0,0,,Parked,,,6,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Cube ejector seems fixed
+,6,3812,Middle,Noah Martin,,TRUE,TRUE,,,,,,,,1,1,,,1,,,,Parked,,,3,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,13,3812,Middle,Sean Williams,,TRUE,FALSE,,,,,FALSE,FALSE,,,1,,,,,,,Not Even Parked,,,,,TRUE,,FALSE,FALSE,FALSE,FALSE,FALSE,Placed cube then didnt move. Atonomus went forward but didn't cross line.
+,16,3812,Middle,Jack Chapman,,TRUE,FALSE,,,,,FALSE,FALSE,,,,,,,,,,,,,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,"Something went wromg, auto did not run stopped moving after auto "
+,26,3812,Spectator Side,Kaedric Holt,,TRUE,TRUE,,,,,,,,,2,,,,,1,,Not Even Parked,,,4,5,,,,,,,,
+,30,3812,Judge Side,Jack Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,,,1,,,1,,,Parked,,,3,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Slow elevator, cannot get cubes onto scale if scale is in favor of opposing alliance"
+,36,3812,Spectator Side,Nora Wilson,,TRUE,FALSE,,,,,FALSE,FALSE,,,1,,,,,3,,Failed Climb,,10%,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Was designed to be a scale bot but as of bow seems to be a failure in every regard for that. The one time it did place a cube it was on the switch and even then it seemed a really desperate play.
+,43,3812,Spectator Side,Violet Advani,,TRUE,,,,,,FALSE,FALSE,,,,,,,,,,Parked,,0%,,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"There may have been a tvh foil for being in the null xone but it was unclear. Bot did nothing the whole time, drove around and could not release cube"
+,51,3812,Judge Side,Tanner Nalley,,TRUE,TRUE,,,,,FALSE,FALSE,,,2,,,3,,,,Parked,,,,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,55,3812,Spectator Side,Noah Martin,,TRUE,TRUE,,,,,,,,,,,,,5,,,Climb Main Rung,21,0%,6,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,62,3812,Spectator Side,Marie Sachs,,TRUE,TRUE,,,,,,,,,,,,,3,,,Failed Climb,4,,9,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Slow but very accurate placing
+,67,3812,Spectator Side,Marie Sachs,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,,1,1,,Failed Climb,,,2,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Not tall enough to place when scale is at highest
+,77,3812,Spectator Side,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,1,0,0,0,0,2,,Failed Climb,7,0%,0,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Couldn't get lifter over the 6 ft to get cube onto scale at max height, attempted climb failed as buzzer went off climber was completly good otherwise"
+,1,3826,Spectator Side,Kaedric Holt,,TRUE,FALSE,,,,,,,,,1,,,,,,,Not Even Parked,,0%,4,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Foul for controlling 2 cubes.
+,11,3826,Spectator Side,Jack Chapman,,TRUE,FALSE,,,,,FALSE,FALSE,,1,,,,,3,1,,Not Even Parked,,0%,8,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Attempted climb, could not line up and backed off platform."
+,14,3826,Middle,Ryan Olney,,TRUE,FALSE,0,0,0,0,FALSE,FALSE,,0,0,0,0,0,2,0,,Parked,0,0%,7,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,20,3826,Spectator Side,Aiden Grayspn,,TRUE,TRUE,,,,,,,,1,,,,1,,,,Parked,,,2,4,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,Climber came loose during teleop
+,28,3826,Judge Side,Peter Hall,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,1,1,,,,Parked,,5,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,Ran right past mid line during auto rammed opponent during auto. Placed cube on wrong side of opponents switch.
+,31,3826,Middle,Ryan Olney,,FALSE,FALSE,0,0,0,0,FALSE,FALSE,,0,0,0,0,0,0,0,,Not Even Parked,0,0%,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Absent
+,37,3826,Judge Side,Sean Williams,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,1,2,,,Climb Main Rung,9,20%,7,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Placed 2 cubes on scale easily then had issues picking up more cubes. 1 went to exchange then some defense.
+,43,3826,Judge Side,Tanner Nalley,,TRUE,TRUE,,,,,,,,,,,,,,,,Not Even Parked,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,47,3826,Judge Side,Justice James,,TRUE,FALSE,,,,,FALSE,FALSE,,,,,,6,,,,Parked,,20%,5,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,54,3826,Spectator Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,0,0,0,0,2,1,,Climb Side,8,0%,6,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Kind of launches, but rather accurate"
+,71,3826,Judge Side,Justice James,,TRUE,TRUE,,,,,FALSE,FALSE,,0,0,0,0,1,3,0,,Parked,,10%,8,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Very good with the scale starting off, 3 cubes on. Switched to exchange when they had 3 more cubes on scale than other alliance. Was blocked from climbing."
+,78,3826,Middle,Tanner Nalley,,TRUE,TRUE,,,,,,,,,2,,,4,,,,Parked,,,7,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,6,4060,Middle,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,2,1,0,0,0,0,2,,Not Even Parked,0,0%,,4,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Would stop for long periods of time
+,9,4060,Judge Side,Kaedric Holt,,TRUE,TRUE,,,,,TRUE,,,,,,,,2,,,Not Even Parked,,10%,6,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,16,4060,Spectator Side,Jack c,,TRUE,TRUE,,,,,FALSE,FALSE,,4,2,,,,,1,,Parked,0,0%,1,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Could not hold onto a cube without the cube slowly slipping down
+,24,4060,Spectator Side,Kaedric Holt,,TRUE,TRUE,,,,,,,,,1,,,,1,2,,Parked,,10%,4,7,,,,,,,,
+,32,4060,Spectator Side,Ryan Olney,,TRUE,TRUE,0,0,0,0,TRUE,FALSE,,0,2,0,0,0,0,0,,Parked,0,0%,7,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,39,4060,Judge Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,2,1,,,,3,2,,Parked,0,0%,6,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,43,4060,Spectator Side,Sean Williams,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,4,,,,Parked,,,8,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Only placed cubes in vault. Fairly accurate but could be more efficient.
+,49,4060,Spectator Side,Violet Advani,,TRUE,TRUE,,,,,FALSE,FALSE,,1,1,,2,,,,,Parked,,20%,3,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Had trouble handling cube, never very fast. Grabber was slow. Played some defense"
+,57,4060,Judge Side,Noah Martin,,TRUE,TRUE,,,,,,,,,1,,,,1,,,Parked,,,,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,64,4060,Spectator Side,Marie Sachs,,FALSE,TRUE,,,,,,,,,1,,1,,,,,Parked,,,2,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Terrible grabber: couldn't pick up
+,68,4060,Judge Side,Peter Hall,,TRUE,FALSE,,,,,FALSE,FALSE,,2,,,,,,,,Parked,,10%,3,2,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Dead for most of natch
+,74,4060,Judge Side,Peter Hall,,TRUE,TRUE,,,,,FALSE,FALSE,,,,3,2,,,,,,0,40%,,6,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Got cube stuck in robot.
+,5,4077,Spectator Side,4077,,TRUE,FALSE,,,,,FALSE,FALSE,,1,,4,2,,,,,Not Even Parked,,,7,7,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,Blocked opponent’s parking-foul
+,10,4077,Middle,Justice James,,TRUE,TRUE,,,,,,,,,1,1,,5,,0,,Parked,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,"Was the robot operating on the exchange, put a lot of cubes in"
+,18,4077,Judge Side,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,1,0,0,5,0,0,,Parked,0,0%,5,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,25,4077,Judge Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,0,0,0,5,4,0,,Failed Climb,0,0%,7,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Great at exchange
+,32,4077,Spectator Side,Sean Williams,,TRUE,TRUE,0,,,,FALSE,FALSE,,,,3,,,,,,Not Even Parked,,,8,9,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,Battery fell out. Focused only on opponents switch.
+,45,4077,Judge Side,Tanner Nalley,,TRUE,TRUE,,,,,,,,,,,,,1,1,,Parked,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,50,4077,Spectator Side,Tanner Nalley,,TRUE,TRUE,,,,,,,,1,,2,,,3,,,Not Even Parked,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,He almost parked
+,56,4077,Middle,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,1,0,0,0,6,0,0,,Not Even Parked,0,0%,2,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Slow auto, lift can't go up to the scale when leaning towards opponent side, only went for exchange after ~30 seconds"
+,62,4077,Judge Side,Peter Hall,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,5,,,,Parked,,,,,,,,,,,,
+,70,4077,Spectator Side,Marie Sachs,,TRUE,TRUE,,,,,FALSE,FALSE,,,,4,,2,2,1,,Failed Climb,15,,4,7,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,"Smart strategy. Tippy at height, rope broke while climbing"
+,76,4077,Spectator Side,Peter Hall,,TRUE,TRUE,,,,,FALSE,FALSE,,,1,,,4,1,,,Parked,,,,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,2,4089,Middle,Kaedric Holt,,FALSE,FALSE,,,,,,,,,,,,,,,,Parked,,0%,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Extremely unstable
+,11,4089,Middle,Sam Rosen,,FALSE,TRUE,,,,,FALSE,FALSE,,1,2,,,,,,,,,,5,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Does not have good grip on intake. A motor got detached and got dragged around the field before (I think) it fell off
+,18,4089,Middle,Jack Chapman,,TRUE,TRUE,,,,,TRUE,FALSE,,1,1,,1,,0,1,,Not Even Parked,,,4,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Tippy, bad grabbet"
+,21,4089,Spectator Side,Sean Williams,,FALSE,TRUE,,,,,FALSE,FALSE,,,,,,,1,1,,Parked,,20%,5,5,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,"Grabber not good, most of time spent trying to pick up cubes. Had to do defense as under attack. Belt came off, assuming itbwas any climbing capability."
+,27,4089,Middle,Sean Williams,,TRUE,TRUE,0,,,,TRUE,FALSE,,,2,,,,,,,Parked,,40%,5,4,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,Pushed multiple cubes on in many occasions. Placed cubes then did defense. Had issues grabbing and holding cubes.
+,37,4089,Spectator Side,Nora Wilson,,TRUE,TRUE,5,,,,FALSE,FALSE,,,1,,,,,,,Parked,,20%,5,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Was blocked by blue alliance, so it wasn’t able to do much."
+,40,4089,Middle,Ryan Olney,,TRUE,TRUE,0,0,0,0,TRUE,,,1,1,0,0,0,1,1,,Parked,0,0%,4,5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,
+,52,4089,Middle,Emma Lahtinen,,TRUE,TRUE,8,0,0,0,FALSE,FALSE,,0,0,0,0,0,0,0,,Parked,0,0%,,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Only did offense
+,57,4089,Middle,Marie Sachs,,TRUE,TRUE,4,,,,FALSE,FALSE,,0,,,,,1,3,,Parked,,,1,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,4,4173,Spectator Side,Kaedric Holt,,TRUE,FALSE,,,,,,,,3,,3,,,,1,,Failed Climb,,10%,4,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Very unstable
+,9,4173,Spectator Side,Justice James,,TRUE,TRUE,,,,,FALSE,FALSE,,1,1,,,,2,,,Parked,,20%,6,4,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,Two tech fouls. Was not able to get onto the ramp only because other robots were blocking it.
+,15,4173,Spectator Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,1,0,1,0,0,0,,Failed Climb,0,0%,4,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Basically did nothing
+,26,4173,Middle,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,0,0,0,3,0,0,,Parked,0,0%,,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Placed cube on other side not in autonomous
+,29,4173,Spectator Side,Sean Williams,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,6,,,,Failed Climb,,,8,9,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Attempted Climb but ran out of time. Became tippy when tall but on platform edge. Spent all of time at exchamge. Moderate speed and fairly accurate, boosts were used."
+,36,4173,Spectator Side,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,2,1,1,2,0,0,,Parked,0,0%,6,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,42,4173,Middle,Jack Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,2,,,,3,,,,Failed Climb,13,10%,3,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Cube intake/exchange issues
+,50,4173,Spectator Side,Ryan Olney,,TRUE,TRUE,0,0,0,,FALSE,FALSE,,0,0,0,0,1,0,1,,Failed Climb,0,0%,7,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,54,4173,Judge Side,Noah Martin,,TRUE,TRUE,,,,,,,,,,,,3,,,,,,,,,,,,,,,,
+,67,4173,Middle,Noah Martin,,TRUE,TRUE,,,,,,,,,1,,,2,1,,,Failed Climb,,,5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,74,4173,Judge Side,Tanner Nalley,,TRUE,TRUE,,,,,,,,,1,,,4,,,,Not Even Parked,,,,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,4,4180,Judge Side,Justice James,,TRUE,FALSE,,,,,FALSE,FALSE,,,1,,,3,,,,Not Even Parked,,30%,4,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Only did the switch and exchange. Intake worked about as well as ours, so not very well. :("
+,7,4180,Judge Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,TRUE,FALSE,,3,0,2,0,1,0,0,,Defense,0,60%,5,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Very fast
+,18,4180,Spectator Side,Aiden Grayson,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,,,,,Not Even Parked,,,0,0,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,no movement after auto
+,25,4180,Spectator Side,Nora Wilson,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,2,,,,Defense,,70%,6,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Is easily blocked by bigger robots- should be primarily used for defense
+,28,4180,Spectator Side,Sean Williams,,TRUE,TRUE,,,,,FALSE,FALSE,,,,2,,1,,,,Not Even Parked,,90%,3,2,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,Pushedba stack of cubes. Cant pick up cubes. Only put on opponents switch and into exchamge so it could be returned. Cube fell off easily.
+,38,4180,Judge Side,Sam Rosen,,TRUE,TRUE,,,,,FALSE,FALSE,,,1,,,1,,,,Not Even Parked,,,6,,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,
+,45,4180,Judge Side,Kaedric Holt,,TRUE,TRUE,,,,,,,,,,,1,1,,,,Parked,,,4,5,,,,,,,,Difficulty receiving cubes from human player.
+,46,4180,Judge Side,Jack Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,,1,,,3,,,,Parked,,,7,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Generally good intakig, had issues with 1 cube"
+,52,4180,Judge Side,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,1,0,0,6,0,0,,Not Even Parked,0,0%,7,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,73,4180,Spectator Side,Peter Hall,,TRUE,TRUE,,,,,FALSE,FALSE,,,0,,,5,,,,Parked,,20%,3,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Decent exchange bot
+,7,4205,Spectator Side,Kaedric Holt,,TRUE,TRUE,,,,,,,,,2,,1,,,,,Parked,,,4,4,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,
+,11,4205,Judge Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,2,0,0,3,0,0,,Parked,0,0%,6,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,14,4205,Spectator Side,Aiden Grayson,,TRUE,TRUE,,,,,FALSE,FALSE,,,2,,0,,,,,,,,4,4,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,
+,23,4205,Judge Side,Sean Williams,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,1,2,2,,Parked,,,5,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Basic, had issues getting cube on high scale. Seemed good but has room for improvement."
+,31,4205,Judge Side,Sam Rosen,,TRUE,TRUE,,,,,,,,,,,,,,1,,Not Even Parked,,,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Tipped
+,38,4205,Spectator Side,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,1,0,0,0,1,0,,Not Even Parked,0,0%,8,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,45,4205,Judge Side,Noah Martin,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,,4,,,Parked,,20%,7,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Kinda slow
+,49,4205,Judge Side,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,2,0,0,5,0,0,,Parked,0,0%,9,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,56,4205,Judge Side,Jack Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,0,0,0,0,0,4,0,,Not Even Parked,,0%,3,6,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,"Unstable with elevator down, very tippy, and fell over with elevator up"
+,67,4205,Judge Side,Kaedric Holt,,TRUE,TRUE,,,,,,,,,1,,,,3,,,Not Even Parked,,,6,7,,,,,,,,
+,1,4450,Spectator Side,Nora wilson,,TRUE,TRUE,,,,,FALSE,FALSE,,,1,,,4,,,,Parked,,40%,,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,A bit slow.
+,13,4450,Judge Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,1,0,0,6,0,0,,Parked,0,0%,7,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,18,4450,Middle,Sam Rosen,,TRUE,TRUE,1,,,,FALSE,FALSE,,,1,,,7,,,,Parked,,,8,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,22,4450,Middle,Kaedric Holt,,FALSE,FALSE,,,,,,,,,,,,8,,,,Parked,,,4,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,30,4450,Middle,Nora Wilson,,TRUE,FALSE,,,,,FALSE,FALSE,,,1,,,9,,,,Parked,,90%,7,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"An absolute God at the feed exchange.  But first it takes control of the switch, which is also useful. It is good at what it does, the downside being the human players do not seem to understand that those powerups are queued."
+,37,4450,Middle,Sam Rosen,,TRUE,TRUE,2,,,,FALSE,FALSE,,,,,,7,,,,Parked,,,7,8,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Stopped responding for about 10-20 sec
+,44,4450,Middle,Jack Chapman,,TRUE,TRUE,2,,,,FALSE,FALSE,,,2,,,3,,,,Parked,,,9,10,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Top hevy robot, had acceleration issues"
+,50,4450,Middle,Justice James,,TRUE,TRUE,3,,,,FALSE,FALSE,,,,,,7,,,,Not Even Parked,,,4,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,53,4450,Middle,Emma Lahtinen,,TRUE,FALSE,2,0,0,0,FALSE,FALSE,,1,0,0,0,5,0,0,,Parked,0,0%,6,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Only did exchange
+,64,4450,Middle,Justice James,,TRUE,TRUE,,,,,FALSE,FALSE,,0,2,0,0,9,0,0,,Parked,,,5,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Incredibly good exchange robot, the 9 is accurate. However, no teams were playing defense against them. On their automous- even though it is incredibly slow, it works- we would need to talk about conflicting autonomous programs but they could work well together."
+,68,4450,Middle,Justice James,,TRUE,TRUE,3,,,,FALSE,FALSE,,0,0,0,0,9,0,0,,Parked,,,5,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Cube on switch on automous. No defense was played against them. Slow but accurate autonomous. 100% exchange bot.
+,72,4450,Judge Side,Jack Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,0,0,0,0,8,0,0,,Parked,,0%,7,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,1,4469,Middle,Emma Lahtinen,,TRUE,FALSE,0,0,0,0,FALSE,FALSE,,1,0,0,0,0,4,0,,Parked,0,0%,7,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Wobbled while driving
+,12,4469,Judge Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,2,0,0,1,0,3,1,,Failed Climb,0,0%,6,3,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,"Rammed into the sides, aggressive but not offensive."
+,17,4469,Judge Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,1,0,0,0,0,2,2,,Climb Main Rung,16,10%,,5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,Very slow autonomous
+,25,4469,Spectator Side,Kaedric Holt,,TRUE,FALSE,,,,,FALSE,,,,,,,7,,,,Parked,,,6,7,,,,,,,,
+,30,4469,Spectator Side,Sean Williams,,TRUE,FALSE,,,,,TRUE,FALSE,,,,,,,2,1,,Climb Main Rung,8,,6,9,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Had issuesbhanging into cubes. Fast speed. Mostly efficient.
+,37,4469,Spectator Side,Ryan Olney,,TRUE,FALSE,0,0,0,0,TRUE,FALSE,,0,0,0,0,0,2,1,,Climb Main Rung,5,10%,5,4,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,
+,41,4469,Judge Side,Jack Chapman,,TRUE,FALSE,,,,,FALSE,FALSE,,0,2,,,,1,,,,,20%,4,4,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,May have gotten a tech foul or clibs awarded to the other them
+,49,4469,Spectator Side,Jack Chapman,,TRUE,FALSE,,,,,TRUE,FALSE,,,,,,,5,,,Climb Main Rung,5,0%,9,9,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,59,4469,Spectator Side,Noah Martin,,TRUE,TRUE,,,,,,,,1,,,,,3,2,,Climb Main Rung,8,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,69,4469,Judge Side,Peter Hall,,TRUE,TRUE,,,,,,,,0,1,,,,3,2,,Parked,,20%,5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Tippy robot
+,74,4469,Spectator Side,Jack Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,1,3,0,0,1,1,0,,Climb Main Rung,6,0%,7,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Tippy with cube in up position
+,6,4512,Spectator Side,Kaedric Holt,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,12,4512,Judge Side,Sam Rosen,,TRUE,TRUE,,,,,TRUE,,,1,1,,1,,1,2,,Failed Climb,,,,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Nearly tipped over. Difficulty picking up/carrying cubes
+,18,4512,Spectator Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,1,0,0,0,0,1,1,,Parked,0,0%,3,5,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,Unstable
+,26,4512,Judge Side,Nora Wilson,,TRUE,TRUE,,,,,FALSE,FALSE,,,2,,,,1,,,Failed Climb,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,It should be noted it failed the climb because its teammate knocked it away.
+,29,4512,Spectator Side,Kaedric Holt,,TRUE,TRUE,,,,,,,,,,,,,4,,,Failed Climb With Friends,,,7,8,,,,,,,,
+,40,4512,Judge Side,Sam Rosen,,TRUE,TRUE,,,,,FALSE,FALSE,,,1,,,,3,1,,Parked,,,8,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,51,4512,Judge Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,1,0,0,0,1,1,,Parked,0,0%,5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,58,4512,Judge Side,Marie Sachs,,TRUE,TRUE,11,,,,FALSE,FALSE,,1,,,,,2,,,Parked,,10%,4,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"They pushed a blue team into a neutral zone red, getting blue a foul"
+,7,4681,Judge Side,Sam Rosen,,TRUE,FALSE,,,,,FALSE,FALSE,,2,1,,1,,,,,Parked,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Cube kept falling off the opposite side of the intake
+,11,4681,Middle,Aiden Grayson,,TRUE,TRUE,,,,,,,,2,2,,,,,,,Not Even Parked,,,3,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,not really able to accurately pick up cubes
+,16,4681,Spectator Side,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,3,0,0,1,0,0,,Not Even Parked,0,0%,7,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,20,4681,Judge Side,Jack Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,,1,,,2,,,,Not Even Parked,,,4,2,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,"Tore off grabber arm, ceased driving afterwards"
+,32,4681,Judge Side,Sam Rosen,,TRUE,TRUE,,,,,FALSE,FALSE,,0,1,,1,1,,,,Parked,,,5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Struggled to pick up cubes
+,36,4681,Judge Side,Sean Williams,,TRUE,FALSE,,,,,TRUE,FALSE,,,1,,,,,,,Failed Climb With Friends,,,7,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Not a climber. Had issues getting cube and spent most of time trying to orientate cube to pick up.
+,44,4681,Spectator Side,Aiden Grayson,,TRUE,TRUE,,,,,,,,1,,1,,,,1,,Not Even Parked,,,2,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,52,4681,Spectator Side,Jack Chapman,,TRUE,FALSE,,,,,FALSE,FALSE,,,1,1,,,,,,Parked,,,4,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Has cube intake issue
+,57,4681,Spectator Side,Tanner Nalley,,TRUE,TRUE,,,,,TRUE,FALSE,,2,0,1,0,0,0,0,,Not Even Parked,,,3,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,They had a hard time picking up blocks and they had a long complicated process for delivering  cubed
+,69,4681,Spectator Side,Justice James,,TRUE,TRUE,,,,,FALSE,FALSE,,0,1,0,0,1,0,0,,Parked,,0%,3,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Failed switch auto. Exchange strategy is to throw down the cube and bump it in, which works about as well as you would think."
+,74,4681,Spectator Side,Tanner Nalley,,TRUE,TRUE,,,,,,,,,,,,1,,,,Parked,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,2,4682,Judge Side,Emma Lahtinen,,TRUE,FALSE,0,0,0,0,FALSE,FALSE,,0,2,0,0,0,0,0,,Not Even Parked,0,0%,8,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Shooter
+,7,4682,Spectator Side,Noah Martin,,TRUE,TRUE,,,,,,,,,1,,,1,,,,Parked,,10%,3,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,14,4682,Spectator Side,Jack Chapman,,FALSE,,,,,,,,,,,,,2,,,,Parked,,0%,,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Issue picking cubes up
+,26,4682,Judge Side,Tanner nalley,,TRUE,FALSE,1,,,,FALSE,FALSE,,,1,,,2,,,,Not Even Parked,,,9,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,They are a shooter robot and it didn’t seem like they were capable of placing blocks on the scale.
+,31,4682,Spectator Side,Sean Williams,,TRUE,TRUE,,,,,FALSE,FALSE,,,1,,,2,,,,Parked,,,7,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Issues collecting cubes.
+,35,4682,Judge Side,Emma Lahtinen,,TRUE,TRUE,0,,,,,,,,,2,,,,,,Parked,0,0%,5,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Shooter
+,41,4682,Spectator Side,Aiden Grayson,,TRUE,TRUE,,,,,FALSE,FALSE,,,1,,,,,,,Parked,,20%,3,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Shooter
+,50,4682,Middle,Jack Chapman,,TRUE,TRUE,10,,,,FALSE,FALSE,,,,,,2,,,,Parked,,30%,6,3,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,Went into opposite null zone without reason
+,53,4682,Judge Side,Tanner Nalley,,FALSE,TRUE,,,,,FALSE,FALSE,,,,1,,2,,,,Not Even Parked,,,6,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,63,4682,Spectator Side,Kaedric Holt,,FALSE,TRUE,,,,,,,,,,,,4,,,,Not Even Parked,,,3,5,,,,,,,,"Can shoot, extreme difficulty picking up cubes."
+,70,4682,Judge Side,Ryan Olney,,FALSE,TRUE,0,0,0,0,FALSE,FALSE,,0,1,0,0,3,0,0,,Parked,0,0%,6,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Had trouble picking up cubes in beginning, shoots into switch"
+,5,4683,Judge Side,Justice James,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Didn't even come out. RIP robot
+,12,4683,Spectator Side,Ryan Olney,,FALSE,FALSE,0,0,0,,FALSE,FALSE,,3,0,0,3,0,0,0,,Not Even Parked,0,0%,0,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,19,4683,Spectator Side,Aiden Grayson,,TRUE,TRUE,,,,,,,,1,2,,,,,,,Not Even Parked,,,5,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,24,4683,Judge Side,Tanner nalley,,FALSE,FALSE,,,,,FALSE,FALSE,,,1,,,,,,,Parked,,,,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,The robot was very slow and not compitant. They seemed to have connection issues in autominous
+,31,4683,Middle,Nora Wilson,,FALSE,FALSE,,,,,FALSE,FALSE,,,,,,,,2,,Parked,,,1,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Tried its best
+,34,4683,Middle,Sean Williams,,FALSE,FALSE,,,,,FALSE,FALSE,,,2,,,,1,,,Parked,,,8,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Slower and took longer to pick up cubes, but had accurate placement and places where needed."
+,44,4683,Spectator Side,Tanner Nalley,,FALSE,TRUE,,,,,,,,,,,,,1,,,Parked,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,47,4683,Judge Side,Jack Chapman,,FALSE,,,,,,,,,,,,,,,1,,Parked,,70%,5,8,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Elevator failed as attempted first cube
+,53,4683,Spectator Side,Noah Martin,,FALSE,TRUE,,,,,,,,,,,,,,1,,Not Even Parked,,60%,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,
+,60,4683,Judge Side,Kaedric Holt,,FALSE,TRUE,,,,,,,,,,,,,,4,,Not Even Parked,0,,0,2,,,,,,,,Awful grip on cube.
+,67,4683,Spectator Side,Justice James,,FALSE,TRUE,,,,,FALSE,FALSE,,0,0,0,0,0,2,1,,Climb Main Rung,,,4,2,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,Incredibly slow cycle. Climb took up the entire main bar.
+,78,4683,Judge Side,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,2,0,0,0,0,1,1,,Climb Main Rung,5,0%,7,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Had trouble with grabbing cubes
+,1,4911,Middle,Noah Martin,,TRUE,TRUE,,,,,TRUE,FALSE,,1,5,,,,,2,,Climb Side,30,10%,7,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Climber failed
+,5,4911,Middle,Nora Wilson,,TRUE,TRUE,1,,,,FALSE,FALSE,,,1,,,,3,2,,No Climb but 1 Friend,10,40%,6,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Got lifted by another bot, slower than in practice matches."
+,9,4911,Middle,Emma Lahtinen,,TRUE,TRUE,3,0,0,0,FALSE,FALSE,,0,1,0,0,0,4,0,,Climb Main Rung,28,10%,10,10,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,It is over all the best robot I have seen so far
+,15,4911,Judge Side,Sam Rosen,,TRUE,TRUE,,,5,,TRUE,FALSE,,,,,,9,,,,Climb Side,3,,,10,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,👌👌
+,22,4911,Judge Side,Sean Williams,,TRUE,FALSE,,,,,FALSE,FALSE,,,1,,,2,3,,,Failed Climb,0,30%,9,9,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Good driver amd efficient. Under attack so defense for themselves but not going out of their way. Attempted absode climb but missed bar.
+,30,4911,Middle,Kaedric Holt,,TRUE,TRUE,11,,,,,,,,,,,,4,1,,Climb Side,14,,7,8,,,,FALSE,,,,
+,39,4911,Judge Side,Nora Wilson,,TRUE,TRUE,,,4,,TRUE,FALSE,,,1,1,1,,3,,,Parked,,,8,9,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Respectful and talented!! Great to work with! Let us climb instead of them.
+,43,4911,Middle,Justice James,,TRUE,TRUE,2,,,,FALSE,FALSE,,,,,,,5,2,,Not Even Parked,,,8,9,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,52,4911,Judge Side,Noah Martin,,TRUE,TRUE,,,5,,,,,,1,,,6,1,,,Failed Climb,,,9,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,58,4911,Middle,Ryan Olney,,TRUE,FALSE,0,0,0,0,FALSE,FALSE,,0,1,0,0,0,3,0,,Parked,0,10%,7,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Ran into team mate in auto
+,63,4911,Middle,Peter Hall,,TRUE,TRUE,10,,,,FALSE,FALSE,,,,,,,5,,,Climb Main Rung,0-5secs,0 None,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Overall great scale bot
+,73,4911,Middle,Tanner Nalley,,TRUE,TRUE,,,,,,,,,,,,,5,,,Climb Main Rung,2,,,10,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,3,4915,Middle,Justice James,,TRUE,FALSE,,,,,FALSE,FALSE,,0,1,,,,3,,,Climb Main Rung,25,10%,10,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,8,4915,Judge Side,Emma Lahtinen,,TRUE,TRUE,2,0,0,0,FALSE,FALSE,,1,0,0,0,0,1,1,,Climb Main Rung,25,0%,,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Briefly not moving but still successful
+,19,4915,Spectator Side,Ryan Olney,,TRUE,TRUE,2,0,0,0,FALSE,FALSE,,0,0,0,0,0,1,1,,Climb Main Rung,20,0%,6,6,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,
+,25,4915,Judge Side,Tanner nalley,,TRUE,TRUE,6,,,,FALSE,FALSE,,,,,,,3,1,,Climb Main Rung,8,,7,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,28,4915,Judge Side,Justice James,,TRUE,TRUE,7,,,,FALSE,FALSE,,,3,,,2,,,,Climb Main Rung,28,10%,10,10,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,39,4915,Middle,Sean Williams,,TRUE,TRUE,10,,,,,,,,,,,4,,,,Climb Main Rung,28,,4,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,43,4915,Spectator Side,Aiden Grayson,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,0,0,2,1,,,,,7,7,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,Bumper sheared when driving over side
+,47,4915,Spectator Side,Violet Advani,,TRUE,TRUE,10,,,,FALSE,FALSE,,,,,,,3,0,,Climb Main Rung,16,10%,,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Little slow picking up cubes and climbing
+,59,4915,Middle,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,0,0,1,0,3,1,,No Climb but 1 Friend,0,0%,6,7,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,"Climbed on a friend, and hit scale to get tech foul"
+,62,4915,Middle,Kaedric Holt,,TRUE,TRUE,11,,,,,,,,,,,,1,2,,Parked,0,10%,4,8,,,,TRUE,,,,Rushed the placement of the cube.
+,72,4915,Middle,Justice James,,TRUE,TRUE,,,,,FALSE,FALSE,,0,1,0,0,3,2,0,,Climb Main Rung,,10%,7,10,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Both an exchange and scale bot. Worked well, put the blame on the alliance partners"
+,75,4915,Judge Side,Peter Hall,,TRUE,TRUE,4,,,,FALSE,FALSE,,,2,,,,2,,,Parked,,0%,7,10,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No climb but we are cabable of it
+,32,5287,Middle,Nora Wilson,,TRUE,TRUE,,,,,FALSE,FALSE,,,1,,,,1,,,Defense,,40%,4,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,3,5588,Middle,Sam Rosen,,TRUE,FALSE,,,,,FALSE,FALSE,,,,,,,,,,Not Even Parked,,,,,,TRUE,,,,,,Straight up did not move
+,13,5588,Spectator Side,Jack Chapman,,TRUE,TRUE,,,,,,,,,,,,,3,,,Parked,,0%,4,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Attempted climbing with freinds, tipped when elevator raised"
+,20,5588,Middle,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,0,0,0,0,1,0,,No Climb but 1 Friend,0,0%,7,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,24,5588,Middle,Emma Lahtinen,,TRUE,FALSE,0,0,0,0,FALSE,FALSE,,,,,,,2,1,,Parked,0,0%,7,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,
+,27,5588,Spectator Side,Justice James,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,,2,,,Failed Climb With Friends,,,6,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Made it onto the platform
+,38,5588,Middle,Sean Williams,,TRUE,FALSE,,,,,FALSE,FALSE,,,,,,,,,,Not Even Parked,,,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Robot stayed around original location with occasional movement. Seemed to wobble when it did move. Ability to lift friends on ramp.
+,42,5588,Spectator Side,Violet Advani,,TRUE,TRUE,,,,,FALSE,FALSE,,,1,,,,1,,,Parked,,20%,5,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Pretty slow bot. Parked at 40s and put down platorm for other robot, but other did not make it on"
+,49,5588,Middle,Tanner Nalley,,TRUE,TRUE,,,2,,,,,,,,0,2,1,,,Not Even Parked,,,4,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,53,5588,Spectator Side,Jack Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,,,2,,Failed Climb With Friends,,,0,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,71,5588,Middle,Peter Hall,,TRUE,FALSE,,,,,FALSE,FALSE,,0,2,,3,,,,,Not Even Parked,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Can place switch. Drops cubes often.
+,77,5588,Spectator Side,Peter Hall,,TRUE,TRUE,5,,,,FALSE,FALSE,,1,,,,,,,,No Climb but 1 Friend,5,10%,2,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Tried to get cubes in the exchange, did not succeed."
+,1,5827,Middle,Noah Martin,,TRUE,TRUE,,,,,,,,2,,,,,1,1,,Not Even Parked,,30%,4,5,FALSE,FALSE,FALSE,FALSE,,,,Way too far in auto
+,10,5827,Middle,Sam Rosen,,TRUE,FALSE,,,,,FALSE,FALSE,,2,2,,1,,,,,Parked,,,5,5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,
+,19,5827,Judge Side,Emma Lahtinen,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,0,2,0,1,0,0,0,,Parked,0,0%,4,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,26,5827,Spectator Side,Sean Williams,,TRUE,FALSE,,,,,FALSE,FALSE,,,,,,,2,,,Not Even Parked,,,8,3,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Part of arm fell off. Not bad at placing but slow and inefficient.
+,32,5827,Middle,Justice James,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,5,,,,Not Even Parked,,10%,5,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Was blocked from parking by an alliance member
+,39,5827,Middle,Jack Chapman,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,1,3,,,,Parked,,,2,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,48,5827,Judge Side,Jack Chapman,,TRUE,FALSE,,,,,FALSE,FALSE,,,,,,,1,,,Failed Climb With Friends,,0%,6,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Climbing robot failed to lift, had cube intake issues"
+,54,5827,Judge Side,Tanner Nalley,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,,1,,,Not Even Parked,,,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,They tipped over adtwr thwy got cought on the scale and a team mate tried to help them.
+,61,5827,Middle,Kaedric Holt,,TRUE,TRUE,,,,,,,,,1,,,2,,3,,Not Even Parked,,10%,4,6,,,,,,,,Grabber fell off in last 30 seconds.
+,76,5827,Middle,Ryan Olney,,TRUE,TRUE,0,0,0,0,FALSE,FALSE,,2,0,0,0,1,0,0,,Not Even Parked,0,0%,0,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Auto started after 10 seconds, lost a cube after bump included on dropped while driving, intake didn't go down after bump previously ment"
+,6,7118,Judge Side,Jack Chapman,,FALSE,TRUE,,,,,,,,1,,,,,,,,Not Even Parked,,0%,1,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Driver went for cubes insetad of parking, dropped cube, could not imtake ground cunes"
+,9,7118,Judge Side,Sam Rosen,,FALSE,TRUE,,,,,FALSE,FALSE,,,,,,1,,,,Not Even Parked,,,,3,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,"Stopped multiple times very briefly, seemed to have a delayed response"
+,18,7118,Judge Side,Sean Williams,,FALSE,TRUE,,,,,FALSE,FALSE,,,,,,,,,,Not Even Parked,,70%,,,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,Got stuck under scale so tech foul? Arms didn't come down so unable to grab cubes. Didn't do anything (excahnge) and defense was bad.
+,24,7118,Judge Side,Sean Williams,,FALSE,TRUE,,,,,FALSE,FALSE,,,,,,2,,,,Parked,,,3,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Didn't move much and wasn't great. Issues grasping cubes. Moved slow.
+,28,7118,Spectator Side,Tanner nalley,,FALSE,FALSE,,,,,FALSE,FALSE,,,,,,3,,,,Not Even Parked,,,7,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Their team did so well they only had to do the exchange.
+,34,7118,Spectator Side,Nora Wilson,,FALSE,FALSE,,,,,FALSE,FALSE,,,1,,,1,,,,Defense,,30%,,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Slow.
+,45,7118,Spectator Side,Violet Advani,,FALSE,FALSE,,,,,,,,2,,,,1,,,,Not Even Parked,,0%,2,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Wasnt good at handling cubes. Managed to push one to exchange
+,52,7118,Spectator Side,Kaedric Holt,,FALSE,TRUE,,,,,,,,1,1,,,,,,,Not Even Parked,,,4,5,,,,,,,,
+,59,7118,Judge Side,Kaedric Holt,,FALSE,TRUE,,,,,,,,,,,,2,,,,Parked,,30%,4,5,,,,,,,,Awkward driving.
+,65,7118,Spectator Side,Marie Savhs,,FALSE,TRUE,,,,,FALSE,FALSE,,,1,,,2,,,,Parked,,,8,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Slow, too cautious, too shy"
+,71,7118,Middle,Tanner Nalley,,FALSE,TRUE,,,,,FALSE,FALSE,,0,0,0,0,0,0,0,,Not Even Parked,,,,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,76,7118,Spectator Side,Jack Chapman,,FALSE,TRUE,,,,,FALSE,FALSE,,,2,,,2,,,,,,,5,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,61,4512,Spectator Side,Emma Lahtinen,,TRUE,TRUE,,,,,TRUE,FALSE,,,,,,,,,,Not Even Parked,,,0,0,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Drove straight to the other side in autonomous and did not move at all afterwardss
+,62,4089,Middle,Emma Lahtinen,,TRUE,TRUE,,,,,TRUE,FALSE,,2,1,3,,,,,,Parked,,50%,5,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Does not pick up cubes well
+,63,5588,Middle,Emma Lahtinen,,TRUE,TRUE,3,,,,FALSE,FALSE,,,,,,,2,1,,Not Even Parked,,0%,7,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Slow start to autonomous
+,64,4173,Judge Side,Emma Lahtinen,,TRUE,TRUE,,,,,FALSE,FALSE,,,,,,,,,,,30,60%,3,1,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,"Could not pick up a single cube, crashed into the sides a lot"
+,65,4469,Judge Side,Emma Lahtinen,,TRUE,TRUE,,,,,FALSE,FALSE,,1,2,,0,,2,1,,Climb Main Rung,10,,,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,A little slow but over all good
+,66,5872,Judge Side,Emma Lahtinen,,TRUE,TRUE,,,,,TRUE,FALSE,,3,,,,,,,,Parked,,30%,2,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Constantly dropped the cube. When moving, robot kind of lurched forward"
+,67,4180,Judge Side,Emma Lahtinen,,TRUE,TRUE,,,,,FALSE,FALSE,,,1,,,4,,,,Not Even Parked,,,7,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Slow autonomos
+,68,360,Judge Side,Emma Lahtinen,,TRUE,TRUE,8,,,,FALSE,FALSE,,,1,6,,,,,,Parked,,30%,8,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Picked cubes up quickly and efficiently
+,69,1318,Middle,Emma Lahtinen,,TRUE,TRUE,,,,,FALSE,FALSE,,2,1,,,1,1,,,Climb Main Rung,,,4,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Had trouble picking up cubes
+,70,3238,Middle,Emma Lahtinen,,TRUE,TRUE,10,,,,FALSE,FALSE,,,,,,,2,1,,Climb Main Rung,10,,6,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
