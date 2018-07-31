@@ -15,4 +15,19 @@ The code located in this repository serves the purpose of:
     2018/06/xx - The repository is currently being refactored from the end of the 2018 season. Code is being consolodated, .gitignore is being fixed, ect.
     
 ### Building
-Currently, this repositroy acts as a collection point for many small, mutially exclusive scripts. Said scripts range from Python 3 to R. So long as you have the required dependencies and languages installed, everything should run smoothly. Note: Many of the scrips here will  output graphs in a fairly un-sterlized manner.
+Currently, this repositroy acts as a collection point for many small, mutially exclusive scripts. Said scripts range from Python 3 to R. So long as you have the required dependencies and languages installed, everything should run smoothly. Note: Many of the scrips here will output graphs in a fairly un-sterlized manner.
+
+### Design Decisions
+The project is designed to consolodate everything between multiple python scripts
+Pros:
+    - Full controll of image output
+    - Compatible with design of scripts in juypter notebook
+    - Theoreticaly easier to manage in a large group
+
+Cons:
+    - Fairly oddball method of consolodation
+    - Long command-line entries 
+
+### Workflow
+If your objective is to design and implement your own graphing solution, these are the required steps.
+
