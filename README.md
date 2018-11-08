@@ -31,3 +31,19 @@ Cons:
 ### Workflow
 If your objective is to design and implement your own graphing solution, these are the required steps.
 
+### Project Structure
+####Out
+####R
+####Python
+---- The directory responsible for containing the
+####Data
+---- The directory responsible for containing the .csv files.
+
+README.md
+---- This document
+compute.py 
+---- The main script responsible for generating the graphs desired
+
+### Planned Features
+
+Score Robotss based on who they are paired with
