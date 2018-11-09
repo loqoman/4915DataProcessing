@@ -19,7 +19,7 @@ Secound note: This file is 100% a slave to compute.py. This file should not be s
 # Analysis imports
 import pandas as pd
 import numpy as np
-
+import time
 # Graphing imports
 import matplotlib.pyplot as plt
 
@@ -39,10 +39,16 @@ MATCHES = [[2990,2906,997,3024,4915,4450],
 # All matches for days 2 and 3 for portland
 
 
-
-
-# Read CSV
 '''This is the first required function. This is nessissary because  '''
+
+if __name__ == 'TEMPLATE':
+    # TODO: change this to the proper varible)
+    print("TEMPLATE.py imported!")
+
+
+def test_func():
+    return "I'm a real boy!"
+
 def read_data(data):
 
     raw_data = pd.read_csv('Data/Portland_Data.csv',header=3,index_col=3,usecols=range(3,16))
@@ -72,10 +78,9 @@ def read_data(data):
     data = data.sort_values(by='Total Cubes', ascending=False)
 
     return data
-# In[291]:
+   # In[291]:
 
 
-# - Test cell for printing things, debugging - 
 
 
 # In[292]:

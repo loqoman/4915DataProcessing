@@ -15,6 +15,8 @@ import importlib
 # Nessissary to import files lower in the directory chain
 import sys
 
+#sys.path.append('./Python')
+
 logger = logging.getLogger('4915DataAnalysis')
 if __name__ == '__main__':
 
@@ -69,19 +71,26 @@ if __name__ == '__main__':
             
             # If the Script name(string) is the same as an argumen tgiven
             if argument == fileNames:
-                
+                # argument is the script name (currently template.py)
                 # Log it
                 logger.info("Found %s in /Python...",argument)
                 
                 
                 # Import it(But remove .py from the end of it)   
-                imported_modules.append(__import__(argument[:-3]))
+                logger.debug("Importing " + argument + "...")
+                 
+                processor = importlib.import_module("Python.TEMPLATE")
 
-
-         
-            
+                logger.info("Processor init message: %s",processor.test_func()) 
+                
     
+    '''Now comes the part where we deccide to do things with the data'''
 '''
 import os
 os.remove(file) for file in os.listdir('path/to/directory') if file.endswith('.png')
+'''
+
+'''
+sys.path.append(path_to_/python)
+from TEMPLATE import * 
 '''
