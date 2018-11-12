@@ -17,6 +17,9 @@ The code located in this repository serves the purpose of:
 ### Building
 Currently, this repositroy acts as a collection point for many small, mutially exclusive scripts. Said scripts range from Python 3 to R. So long as you have the required dependencies and languages installed, everything should run smoothly. Note: Many of the scrips here will output graphs in a fairly un-sterlized manner.
 
+Anaconda note: 
+On Linux, one must run source /home/<user>/anaconda3/bin/activate root, then execute the binary to properly launch anaconda-navigator.
+
 ### Design Decisions
 The project is designed to consolodate everything between multiple python scripts
 Pros:

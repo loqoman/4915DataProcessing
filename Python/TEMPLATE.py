@@ -4,8 +4,6 @@ Template graph generation script. All teh required methods are heavily noted in 
 First note: This file was converted directly from .ipynb. It will generate a lot of verbose comments.
 For educational purpaces, I will leave them all in.
 
-Secound note: This file is 100% a slave to compute.py. This file should not be saving, distributing, or otherwise running any code other than its initilazation.
-
 '''
 # coding: utf-8
 
@@ -39,17 +37,14 @@ MATCHES = [[2990,2906,997,3024,4915,4450],
 # All matches for days 2 and 3 for portland
 
 
-'''This is the first required function. This is nessissary because  '''
-
-if __name__ == 'TEMPLATE':
-    # TODO: change this to the proper varible)
-    print("TEMPLATE.py imported!")
+''' This is the first required function. This is nessissary because  '''
 
 
-def test_func():
-    return "I'm a real boy!"
+def import_message():
 
-def read_data(data):
+    return "TEMPLATE.py successfully imported!"
+
+def read_data():
 
     raw_data = pd.read_csv('Data/Portland_Data.csv',header=3,index_col=3,usecols=range(3,16))
 
@@ -88,6 +83,8 @@ def read_data(data):
 def show_data(data):
     data.head()
     data.describe()
+
+
 
 '''
 # Stacked table
@@ -133,16 +130,39 @@ plot5 = (data.loc[[4915,360,488]].plot(kind='bar',colormap='Paired',figsize=(18.
 # pump out graphs for days 2 and 3
 # Used to label the graph
 def gen_graphs(data):
-    
-    matchcount = 0
 
+    match = [2990,2906,997,3024,4915,4450] 
+
+    # generating the graph
+    graph = data.loc[match].plot(kind='bar',title="Spartronics 4915 1st match of the day!",figsize=(18.5,10.5),grid=True,colormap='winter')
+        
+    graph.set_ylabel('Cubes Manipulated');
+
+    fig = graph.get_figure()
+
+    # List of names of output graphs 
+    export = []
+
+    # NOTE: This is a potental location of a for loop.
+    # If you want to save multiple graphs, then it would be someting like
+    '''
+    
     for match in MATCHES:
         matchcount += 1
 
         graph = data.loc[match].plot(kind='bar',title="Spartronics 4915 " + str(matchcount) + "st match of the day!",figsize=(18.5,10.5),grid=True,colormap='winter')
         
         graph.set_ylabel('Cubes Manipulated');
-        fig = graph.get_figure()
-        
-        print(type(fig)) 
-    
+fig = graph.get_figure()
+
+
+    '''
+    # The critical part is that 'export' is appended, because if it is not it will cause problems in compute.py
+
+    fig.savefig("TEMPLATE Graph")
+
+
+    # Support for multiple files
+    export.append("TEMPLATE Graph.png")
+   
+    return export

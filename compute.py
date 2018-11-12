@@ -7,7 +7,8 @@ import os
 import logging
 import functools
 
-import webbrowser
+# Needed to show images
+from PIL import Image
 
 # Nessissary to import files based on a string
 import importlib
@@ -34,11 +35,11 @@ if __name__ == '__main__':
     optParser.add_option('-d', '--display', default=False, action='store_true',
                     help='Displays the generated graph in the default image viewer')
 
-    
-    optParser.add_option('--delete',default=True, action='store_false',
+    # ???: Should delete really default to FALSE? 
+    optParser.add_option('--delete',default=False, action='store_true',
                     help='Deletes the generated graph after it is displayed')
 
-    # Can add support for parsing multiple files
+    # TODO: add support for parsing multiple files
     # nArgs > 1
     argParser.add_argument('file',nargs='?')
     
@@ -56,8 +57,6 @@ if __name__ == '__main__':
     logger.info("Initilized %(file)s with the following options: %(options)s",dict(file=__file__,options=options))
 
     logger.debug("Current sys.path: %s",sys.path)
-    # Support for multiple files
-    imported_modules = []
     
     # For every argument given
     for argument in args:
@@ -79,12 +78,59 @@ if __name__ == '__main__':
                 # Import it(But remove .py from the end of it)   
                 logger.debug("Importing " + argument + "...")
                  
+
+                # String of the filename
+                strProcessor = argument
+
+
+                #Importing the processor
                 processor = importlib.import_module("Python.TEMPLATE")
 
-                logger.info("Processor init message: %s",processor.test_func()) 
+                logger.info("Processor init message: %s",processor.import_message()) 
                 
     
     '''Now comes the part where we deccide to do things with the data'''
+
+    # HACK: Deliver this string in a more conventional manner
+    logger.info("Reading data using processor %s, ", strProcessor)
+
+    data = processor.read_data()
+
+    #TODO: Make this information more useful/ maybe move to verbose-only? 
+    logger.info("Information read about the data:\n %s" ,data[200:])
+
+    logger.info("Generating graphs...")
+
+    # Save the graph
+    # graphs is an array of strings
+    # FAQ: The graphs are saved first because potentially the user may want to view the graphs, and not save them, in which case they will be deleted after they are read from the image viewer of choice
+
+    graphs = processor.gen_graphs(data)
+
+    logger.debug("gen_graphs returned %s", graphs)
+
+    # NOTE: Graph will be saved no matter the options parsed
+    for string in graphs:
+
+        # Show the graph
+        if (options.display):
+
+            logger.info("Showing graphs...")
+            image = Image.open(string)
+            image.show()
+
+        # Move the graphs
+        os.rename(string,"./Out/" + string)
+
+        # Kill the graph 
+     
+        if (options.delete):
+  
+            logger.info("Deleting graph...")
+            os.remove("./Out/" + string) 
+
+
+# Misc code snippits.
 '''
 import os
 os.remove(file) for file in os.listdir('path/to/directory') if file.endswith('.png')
